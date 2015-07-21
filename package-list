@@ -6,3 +6,4 @@ org.openstreetmap.josm.plugins.mapillary.downloads
 org.openstreetmap.josm.plugins.mapillary.gui
 org.openstreetmap.josm.plugins.mapillary.mode
 org.openstreetmap.josm.plugins.mapillary.oauth
+org.openstreetmap.josm.plugins.mapillary.traffico
